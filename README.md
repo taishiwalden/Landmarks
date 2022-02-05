@@ -30,3 +30,4 @@ This module explains how to customize list views using the `@State` attribute.
 
 ###### Core Concepts:
 - The `@State` attribute is a value, or a set of values, that can change over time, and that affects a view’s behavior, content, or layout.
+- Because you use state properties to hold information that’s specific to a view and its subviews, you always create state as `private`.
