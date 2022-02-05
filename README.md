@@ -26,3 +26,7 @@ The first module explains how to navigate the Xcode interface, and organizing fi
 
 ***
 #### handling user inputs
+This module explains how to customize list views using the `@State` attribute.
+
+###### Core Concepts:
+- The `@State` attribute is a value, or a set of values, that can change over time, and that affects a view’s behavior, content, or layout.
