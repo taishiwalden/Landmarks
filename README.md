@@ -33,3 +33,4 @@ This module explains how to customize list views using the `@State` attribute.
 - Because you use state properties to hold information that’s specific to a view and its subviews, you always create state as `private`.
 - An observable object is a custom object for your data that can be bound to a view from storage in SwiftUI’s environment. SwiftUI watches for any changes to observable objects that could affect a view, and displays the correct version of the view after a change.
 - Add the `@Published` attribute to publish any changes to its (observable object) data, so that its subscribers can pick up the change.
+- Use the `@StateObject` attribute to initialize a model object for a given property only once during the life time of the app.
