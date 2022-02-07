@@ -10,6 +10,8 @@ I followed the Apple Developer's course which can be found [here](https://develo
 
 ***
 ### Glance at the final product
+![landmarks-swift](https://user-images.githubusercontent.com/75241036/152732842-3868c3aa-52bb-4eb4-b761-c61e884b6542.gif)
+
 
 ***
 #### creating and combining views
