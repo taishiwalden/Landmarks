@@ -9,14 +9,14 @@ I followed the Apple Developer's course which can be found [here](https://develo
 3. Download [GitHub Desktop](https://desktop.github.com/) (optional)
 
 ***
-### Glance at the final product
+## Glance at the final product
 ![landmarks-swift](https://user-images.githubusercontent.com/75241036/152732842-3868c3aa-52bb-4eb4-b761-c61e884b6542.gif)
 
 
 ***
-#### creating and combining views
+### Creating and Combining Views
 The first module explains how to navigate the Xcode interface, and organizing files in the project navigator. 
-<img width="1440" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
+<img width="1040" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
 
 ###### Core Concepts:
 - The `@main` attribute identifies the app’s entry point.
@@ -25,7 +25,7 @@ The first module explains how to navigate the Xcode interface, and organizing fi
 - You can use any combination of editors: the source editor, the canvas, or the inspectors. 
 
 ***
-#### building lists and navigation
+### Building Lists and Navigation
 <img width="540" alt="Screen Shot 2022-02-08 at 10 39 37 AM" src="https://user-images.githubusercontent.com/75241036/153053976-a3ad7913-9279-449b-808d-e34afb3171d2.png">
 
 ###### Core Concepts:
@@ -34,7 +34,7 @@ The first module explains how to navigate the Xcode interface, and organizing fi
 - Using `Decodable`  component of the Codable protocol to read data from JSON files.
 
 ***
-#### handling user inputs
+### Handling User Inputs
 This module explains how to customize list views using the `@State` attribute.
 
 ###### Core Concepts:
