@@ -16,7 +16,7 @@ I followed the Apple Developer's course which can be found [here](https://develo
 ***
 ### Creating and Combining Views
 The first module explains how to navigate the Xcode interface, and organizing files in the project navigator. 
-<img width="1040" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
+<img width="840" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
 
 ###### Core Concepts:
 - The `@main` attribute identifies the app’s entry point.
