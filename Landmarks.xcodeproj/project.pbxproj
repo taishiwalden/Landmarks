@@ -60,6 +60,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2203782227B255200070D41C /* Badges */ = {
+			isa = PBXGroup;
+			children = (
+				2203782027B253EA0070D41C /* Badge.swift */,
+				2203781A27B24E100070D41C /* BadgeBackground.swift */,
+				2203781C27B2526F0070D41C /* BadgeSymbol.swift */,
+				2203781E27B2532D0070D41C /* RotatedBadgeSymbol.swift */,
+				2203781827B24CA00070D41C /* HexagonParameters.swift */,
+			);
+			path = Badges;
+			sourceTree = "<group>";
+		};
 		2256A8DD27AF563B00F3C48A /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
@@ -121,11 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				22A13E8327ADB740002A4AB1 /* ContentView.swift */,
-				2203781C27B2526F0070D41C /* BadgeSymbol.swift */,
-				2203781827B24CA00070D41C /* HexagonParameters.swift */,
-				2203781A27B24E100070D41C /* BadgeBackground.swift */,
-				2203781E27B2532D0070D41C /* RotatedBadgeSymbol.swift */,
-				2203782027B253EA0070D41C /* Badge.swift */,
+				2203782227B255200070D41C /* Badges */,
 				2256A8DD27AF563B00F3C48A /* Landmarks */,
 				2256A8DE27AF565000F3C48A /* Helpers */,
 			);
