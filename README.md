@@ -16,6 +16,7 @@ I followed the Apple Developer's course which can be found [here](https://develo
 ***
 #### creating and combining views
 The first module explains how to navigate the Xcode interface, and organizing files in the project navigator. 
+<img width="1440" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
 
 ###### Core Concepts:
 - The `@main` attribute identifies the app’s entry point.
@@ -25,6 +26,12 @@ The first module explains how to navigate the Xcode interface, and organizing fi
 
 ***
 #### building lists and navigation
+<img width="540" alt="Screen Shot 2022-02-08 at 10 39 37 AM" src="https://user-images.githubusercontent.com/75241036/153053976-a3ad7913-9279-449b-808d-e34afb3171d2.png">
+
+###### Core Concepts:
+- Using a JSON file to dynamically store and transmit data objects consisting of attribute–value pairs and arrays.
+- Build a list of meaningful locations that users can click to view more detailed data about.
+- Using `Decodable`  component of the Codable protocol to read data from JSON files.
 
 ***
 #### handling user inputs
