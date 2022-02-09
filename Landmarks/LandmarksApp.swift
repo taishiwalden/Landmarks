@@ -11,6 +11,8 @@ import SwiftUI
 struct LandmarksApp: App {
     @StateObject private var modelData = ModelData()
     
+    
+    // The WindowGroup scene defined in the app body declares ContentView as the root view of the app.
     var body: some Scene {
         WindowGroup {
             ContentView()
