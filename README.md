@@ -48,15 +48,17 @@ This module explains how to customize list views using the `@State` attribute.
 *** 
 # Drawing and Animation
 ### Drawing Paths and Shapes
+Learned the process of creating a badge & icon by combining paths and shapes, using the `overlaid` symbol, varying the amount of `repetition`, or changing the various `angles` and `scales`. To create geometric shapes and paths, you start by `import CoreGraphics`, a framework that allows you to handle path-based drawing, transformations, color management, patterns, gradients and shadings, image data management, and parsing.
 
 ***
 ### Animating Views and Transitions
-When using SwiftUI, you can individually animate changes to views, or to a view’s state, no matter where the effects are.
-[Uploading swift-animation-preview.gif…]()
+When using SwiftUI, you can individually animate changes to views, or to a view’s `state`, no matter where the effects are.
+![swift-animation-preview](https://user-images.githubusercontent.com/75241036/153289229-b5bb5b41-3dbc-41d0-a3fd-91b285f21d3f.gif)
 
 ***
 # App Design and Layout
 ### Composing Complex Interfaces
 Learning how to connect new views with existing ones, and exploring how to make device-responsive app designs using "composed" views.
+<img width="458" alt="Swift-tutorial-categories" src="https://user-images.githubusercontent.com/75241036/153289171-32cd5884-daee-4d1f-b75a-404afb0c25bb.png">
 
 1. Creating a "Category" view: with a featured section and 2 different categories highlighting similar locations.
