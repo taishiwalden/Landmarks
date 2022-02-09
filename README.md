@@ -54,4 +54,9 @@ This module explains how to customize list views using the `@State` attribute.
 When using SwiftUI, you can individually animate changes to views, or to a view’s state, no matter where the effects are.
 [Uploading swift-animation-preview.gif…]()
 
+***
+# App Design and Layout
+### Composing Complex Interfaces
+Learning how to connect new views with existing ones, and exploring how to make device-responsive app designs using "composed" views.
 
+1. Creating a "Category" view: with a featured section and 2 different categories highlighting similar locations.
