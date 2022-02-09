@@ -14,6 +14,7 @@ I followed the Apple Developer's course which can be found [here](https://develo
 
 
 ***
+# Swift UI Essentials
 ### Creating and Combining Views
 The first module explains how to navigate the Xcode interface, and organizing files in the project navigator. 
 <img width="840" alt="Screen Shot 2022-02-08 at 10 40 55 AM" src="https://user-images.githubusercontent.com/75241036/153054152-e956a3c1-352c-480e-9026-989aa93fe984.png">
@@ -43,3 +44,14 @@ This module explains how to customize list views using the `@State` attribute.
 - An observable object is a custom object for your data that can be bound to a view from storage in SwiftUI’s environment. SwiftUI watches for any changes to observable objects that could affect a view, and displays the correct version of the view after a change.
 - Add the `@Published` attribute to publish any changes to its (observable object) data, so that its subscribers can pick up the change.
 - Use the `@StateObject` attribute to initialize a model object for a given property only once during the life time of the app.
+
+*** 
+# Drawing and Animation
+### Drawing Paths and Shapes
+
+***
+### Animating Views and Transitions
+When using SwiftUI, you can individually animate changes to views, or to a view’s state, no matter where the effects are.
+[Uploading swift-animation-preview.gif…]()
+
+
